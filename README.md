@@ -1,6 +1,7 @@
 # 🖥️ Hardware Knowledgebase
 
-**Hardware Knowledgebase** is an **in-depth, multi-file knowledge base** of **840 CompTIA A+ hardware facts**, organized into **14 categories** with **60 unique, exam-relevant facts each**. This project covers the full range of physical components tested on the **latest CompTIA A+ (220-1101) exam**, designed to serve as both a **study resource** and a **portfolio of structured technical writing**. A complete, exam-aligned reference of **840 CompTIA A+ hardware facts**, organized into 14 categories with **60 unique, high-value facts each** — covering all physical components tested on the latest CompTIA A+ (220-1101) exam. 
+**Hardware Knowledge Base** is an **in-depth, multi-file knowledge base** of **840 CompTIA A+ hardware facts**, organized into **14 categories** with **60 unique, exam-relevant facts each**.  
+This project covers the full range of **physical components tested on the latest CompTIA A+ (220-1101) exam**, designed to serve as both a **study resource** and a **portfolio of structured technical writing**.  
 
 ---
 
