@@ -1,6 +1,7 @@
 # 🖥️ CompTIA A+ Knowledge Base  
 
-This **Hardware Knowledge Base** is an **in-depth, multi-file knowledge base** of **840 CompTIA A+ hardware facts**, organized into **14 categories** with **60 unique, exam-relevant facts each**. This project covers the full range of **physical components tested on the latest CompTIA A+ (220-1101) exam**, designed to serve as both a **study resource** and a **portfolio of structured technical writing**.  
+This **Hardware Knowledge Base** is an **in-depth, multi-file knowledge base** of **840 CompTIA A+ hardware facts**, organized into **14 categories** with **60 unique, exam-relevant facts each**.  
+This project covers the full range of **physical components tested on the latest CompTIA A+ (220-1101) exam**, designed to serve as both a **study resource** and a **portfolio of structured technical writing**.  
 
 ---
 
@@ -23,13 +24,31 @@ This **Hardware Knowledge Base** is an **in-depth, multi-file knowledge base** o
 
 ---
 
-## ✅ About This Project  
+## 🎯 Features  
 
-This repository is built to:  
-- Provide an **in-depth, exam-aligned guide** to CompTIA A+ hardware topics  
-- Strengthen **systematic technical writing and knowledge organization**  
-- Serve as a **study guide, reference library, and interview prep tool**  
-- Demonstrate mastery of **hardware across 14 categories** with zero overlap  
+- **60 facts per category**: dense coverage without overload.  
+- **Exam-mapped**: Each fact tagged to relevant **CompTIA domain objectives**.  
+- **Practical focus**: Real-world troubleshooting, lab relevance, and technician workflows.  
+- **Consistent format**: Clear, structured, and easy to navigate for study.  
+
+---
+
+## 🚀 Usage  
+
+- Study **category by category** to reinforce exam readiness.  
+- Cross-reference with **practice exams and lab work** for mastery.  
+- Use as a **hardware reference library** for troubleshooting and interviews.  
+
+---
+
+## ✅ Exam Domains Covered  
+
+- **Domain 1.0 Hardware**  
+- **Domain 2.0 Networking** *(covered here only from the hardware perspective)*  
+- **Domain 3.0 Mobile Devices**  
+- **Domain 4.0 Hardware & Network Troubleshooting**  
+
+*(The remaining domains — OS, security, operational procedures, cloud — are covered in the **A+ Continuation Project**.)*  
 
 ---
 
@@ -39,10 +58,9 @@ Licensed under the MIT License
 ---
 
 ## ✍️ Maintained By  
-**Jose Vazquez** 
+**Jose Vazquez**  
 
-💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**
-
-  **Completed August 19 2025.**
+💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**  
+📅 **Completed August 19, 2025**  
     
 
