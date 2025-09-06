@@ -1,4 +1,4 @@
-![Project Banner](images/6493510.jpg
+![Project Banner](images/6493510.jpg)
 
 # 🖥️ CompTIA A+ Knowledge Base  
 
