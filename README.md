@@ -58,8 +58,7 @@ Licensed under the MIT License
 
 ---
 
-## ✍️ Maintained By  
-**Jose Vazquez**  
+## ✍️ Maintained By **Jose Vazquez**  
 
 💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**  
 
