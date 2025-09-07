@@ -50,6 +50,7 @@ This repository focuses on the CompTIA A+ Core 1 (220-1101) exam content most re
 - Cabling and connectivity standards
 - Device installation and configuration
 - Hardware and network troubleshooting practices
+
 Together, these topics form the hardware foundation required for A+ Core 1. 
 
 *(The remaining domains — OS, security, operational procedures, cloud — are covered in the **A+ Continuation Project**.)*  
