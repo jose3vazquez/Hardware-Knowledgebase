@@ -58,7 +58,7 @@ Together, these topics form the hardware foundation required for A+ Core 1.
 ---
 
 ## 📜 License  
-Licensed under the MIT License (License.md)
+[Licensed under the MIT License](License.md)
 
 ---
 
