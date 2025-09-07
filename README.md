@@ -53,7 +53,7 @@ This repository focuses on the CompTIA A+ Core 1 (220-1101) exam content most re
 
 Together, these topics form the hardware foundation required for A+ Core 1. 
 
-*(The remaining domains — OS, security, operational procedures, cloud — are covered in the **A+ Continuation Project**.)*  
+*(The remaining domains — OS, security, operational procedures, cloud — are covered in the **CompTIA A+ Knowledge Base (Continued)**.)*  
 
 ---
 
