@@ -66,6 +66,14 @@ Together, these topics form the hardware foundation required for A+ Core 1.
 
 💡 **Created as both a personal study resource and a demonstration of structured, exam-aligned technical writing.**  
 
-📅 **Completed August 19, 2025**  
+📅 **Completed August 19, 2025**
+
+---
+### Disclaimer
+
+CompTIA and A+ are registered trademarks of CompTIA, Inc.  
+This repository was created independently by Jose Vazquez as a study and reference guide for the **CompTIA A+ Core 1 (220-1101)** exam, with an emphasis on hardware and troubleshooting.  
+It is not affiliated with, sponsored by, or endorsed by CompTIA.
+
     
 
