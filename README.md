@@ -1,5 +1,3 @@
-![Project Banner](images/apluscert.png)
-
 # 🖥️ CompTIA A+ Knowledge Base  
 
 This **Hardware Knowledge Base** is an **in-depth, multi-file knowledge base** of **840 CompTIA A+ hardware facts**, organized into **14 categories** with **60 unique, exam-relevant facts each**.  
